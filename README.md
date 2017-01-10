@@ -5,3 +5,5 @@ This project contains a series of Python examples.
 
  - python_strings.py
  - python_numbers.py
+ - python_boolean.py
+ - python_list.py
